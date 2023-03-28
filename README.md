@@ -1,10 +1,10 @@
 INSTALLATION INSTRUCTIONS
-
+                
 Code Repository: 
-
+                https://github.com/Hasan2003RDX/whatsapp-turbo-gpt.git
 Contact Information:
 Name: Harshit Sharma
-Github Username: https://github.com/RDX_201
+Github Username: https://github.com/Hasan2003RDX
 Email: hrdx201@gmail.com
 Telegram Channel: https://t.me/rdx_201
 In addition, I have included a compressed zip file called `node_modules.zip`. This file contains all the required dependencies for the project, and can be used as a backup option in case you encounter issues while installing the dependencies using the `npm install` command. Simply extract the contents of the zip file and place them in the project directory to use the dependencies.
@@ -12,7 +12,7 @@ In addition, I have included a compressed zip file called `node_modules.zip`. Th
 INSTALLATION STEPS
 Clone the code repository from Github using the following command:
 
-$ git clone https://github.com/RDX_201/whatsapp-turbo-gpt
+$ git clone https://github.com/Hasan2003RDX/whatsapp-turbo-gpt.git
 Navigate to the root directory of the code repository:
 
 $ cd whatsapp-turbo-gpt
